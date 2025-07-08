@@ -1,5 +1,5 @@
 # M01 W01 | Welcome and Introductions
-[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M01W03%20-%20TDD%20with%20Mocha%20%26%20Chai) | [Vimeo Video Recording](https://vimeo.com/1099527480/49ab88f1f1?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-July-7-2025/tree/main/M01W01%20-%20Welcome%20and%20Introductions) | [Vimeo Video Recording](https://vimeo.com/1099527480/49ab88f1f1?share=copy)
 ### Tech Talk
 * For Windows users, please do all work inside WSL
 * Sharing your screen is a security concern (instructions posted in Discord)
