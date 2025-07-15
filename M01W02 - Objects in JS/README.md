@@ -1,5 +1,5 @@
 # M01 W02 | Objects in JS
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-July-7-2025/tree/main/M01W02%20-%20Objects%20in%20JS) | [Vimeo Video Recording](https://vimeo.com/1101395066/cf0881de81?share=copy)
 
 ## Topics to cover
 
