@@ -1,5 +1,5 @@
 # M01 W04 | Asynchronous Control Flow
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-July-7-2025/tree/main/M01W04%20-%20Asyncrhonous%20control%20flow) | [Vimeo Video Recording](https://vimeo.com/1105321078/05d6c6c96d?share=copy)
 
 ## Topics to cover
 
